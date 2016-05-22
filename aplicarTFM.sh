@@ -4,4 +4,5 @@ cp TFM_files/menus/* /var/local/cDistro/plug/menus/
 mkdir /var/local/cDistro/plug/resources/docker
 mkdir /var/local/cDistro/plug/resources/docker/containers
 cp TFM_files/scripts/* /var/local/cDistro/plug/resources/docker/
+chmod +x /var/local/cDistro/plug/resources/docker/*
 cp TFM_files/config/* /var/local/cDistro/plug/resources/docker/containers/
