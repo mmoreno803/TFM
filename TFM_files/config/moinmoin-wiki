@@ -4,5 +4,3 @@ Port=8085
 Img=moinmoin-wiki
 Pub=Yes
 Id=ndef
-Id=ndef
-Pub=No

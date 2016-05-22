@@ -4,7 +4,3 @@ Id=ndef
 Port=8084
 Img=docker-kanban
 Pub=No
-Id=Installing
-Pub=Yes
-Pub=No
-Pub=Yes
