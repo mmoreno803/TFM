@@ -1,4 +1,3 @@
-git clone https://github.com/mmoreno803/TFM.git
 cp TFM_files/avahi/* /var/local/cDistro/plug/avahi/
 cp TFM_files/php/* /var/local/cDistro/plug/controllers/
 cp TFM_files/menus/* /var/local/cDistro/plug/menus/
